@@ -1,9 +1,9 @@
 {
-    "name": "igors/minesweeper",
+    "name": "trostinsa/minesweeper",
     "authors": [
         {
-            "name": "Igor Shabarin",
-            "email": "igorshabarin2000@mail.ru"
+            "name": "TrostinSA",
+            "email": "trostin.sergei@gmail.com"
         }
     ],
     "require": {
